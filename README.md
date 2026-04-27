@@ -1,2 +1,2 @@
 # Full_stack_DS_with-GEN-AI-and-AGENTIC-AI
-Full stack data science with Gen AI and Agentic AI
+“This repository contains projects and assignments from a Full Stack Data Science course with Generative AI and Agentic AI.
